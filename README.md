@@ -25,5 +25,6 @@ MIT License
 
 ## Badges
 
-![shields.io]https://img.shields.io/badge/just%20the%20message-8A2BE2
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />                                | `https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white`                                |
+| <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />                                  | `https://img.shields.io/badge/CSS-239120?
 
