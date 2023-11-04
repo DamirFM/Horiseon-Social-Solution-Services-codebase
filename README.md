@@ -18,6 +18,7 @@ To see the refactoring impact on this codebase, you can review the updated HTML 
 For doing this job I used this helpful resources: 
 
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- https://dev.to/envoy_/150-badges-for-github-pnk
 
 ## License
 
@@ -25,4 +26,6 @@ MIT License
 
 ## Badges
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />                                 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />    
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />                               
