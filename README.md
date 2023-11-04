@@ -25,4 +25,5 @@ MIT License
 
 ## Badges
 
-[shields.io]https://img.shields.io/badge/just%20the%20message-8A2BE2
+![shields.io]https://img.shields.io/badge/just%20the%20message-8A2BE2
+
