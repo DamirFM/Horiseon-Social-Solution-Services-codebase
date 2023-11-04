@@ -25,4 +25,4 @@ MIT License
 
 ## Badges
 
-[shields.io]https://img.shields.io/badge/Horiseon%20Social%20Solution%20Services-2a607c
+[shields.io]https://img.shields.io/badge/just%20the%20message-8A2BE2
