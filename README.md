@@ -1,4 +1,5 @@
 # Horiseon Social Solution Services, Inc. Codebase
+
 Code refactoring of Horiseon Social Solution Services, Inc. agency website.
 
 ## Description
