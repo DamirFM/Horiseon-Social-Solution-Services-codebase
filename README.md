@@ -6,6 +6,16 @@ Code refactoring of Horiseon Social Solution Services, Inc. agency website.
 
 This Horieon Social Solution Services, Inc. codebase was refactored for accessibility standards and optimized for search engines. It contains such materials as HTML, CSS and images.
 
+## Link of deployed application
+
+https://damirfm.github.io/Horiseon-Social-Solution-Services-codebase/
+
+## Screenshots of the application
+
+![Alt text](./assets/images/1.png "Welcome page. Top")
+
+![Alt text](./assets/images/2.png "Welcome page. Bottom")
+
 ## Installation
 
 N/A
